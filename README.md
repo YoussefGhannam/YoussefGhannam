@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-<p>I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
+<p>I am Youssef Ghannam, a 20-year-old web developer from Morocco with a solid foundation in digital development and a passion for creating impactful web applications.</p>
 ---
 
 ### 🧰 Languages and Tools
@@ -41,7 +41,19 @@
 
 <details>
  <summary><h3>👨‍💻 Gh's Coding Journey</h3></summary>
-         Description.
+         I graduated from high school in September 2021 with a baccalaureate diploma. Driven by my ambition in web development, I pursued a diploma in Digital Development with a Full Stack option at the Specialized Institute of Applied Technology - Ben M'sik, graduating in July 2023. I then completed my Professional License in Software and Web Development at the Higher Normal School - Tetouan in July 2024.
+
+Throughout my educational journey, I have developed a comprehensive skill set in backend web application development using frameworks such as Laravel, JEE, Symfony, and Spring Boot. I am proficient in a range of technologies including Java, Python, PHP, JavaScript, HTML, CSS, Docker, GitHub Actions, UML, Merise, Agile methodologies, and Project Management.
+
+My professional experience includes:
+
+L2R PME (March 2023 - April 2023): Developed a company website using ReactJS, applying Agile methodologies for iterative development and project management. The project was completed successfully and received positive feedback for its quality and functionality.
+
+WEDO APP (December 2023 - February 2024): Worked remotely on tasks such as developing a digital keyboard with JavaScript, retrieving data from the backend, integrating frontend pagination, handling interactive input, and generating PDFs using Laravel. My contributions were integral to enhancing the company's application features.
+
+UPNETWORK (April 2024 - July 2024): Focused on backend development, creating API endpoints, implementing authorization with the Spatie package, setting up automated email notifications via Gmail SMTP, and managing JWT authentication. This role allowed me to deepen my backend development expertise and contribute effectively to the team’s goals.
+
+With a robust educational background and practical experience, I am committed to leveraging my skills to drive innovation and deliver high-quality solutions in web development.
   
 [website]: 
 
