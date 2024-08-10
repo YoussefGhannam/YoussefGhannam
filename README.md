@@ -1,5 +1,28 @@
 # 🏄‍♂️ Youssef Ghannam
 
+## Rotating Icon Example
+
+To create an infinite rotation animation for an icon in your React application, you can use the following CSS code.
+
+### CSS Code
+
+```css
+/* Define the rotation animation */
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Apply the animation to the icon */
+.reactjs {
+  animation: rotate 2s linear infinite; /* Adjust duration and speed as needed */
+}
+
+
 **`Full Stack Developer`**
 
 <p>I am Youssef Ghannam, a 20-year-old web developer from Morocco with a solid foundation in digital development and a passion for creating impactful web applications.</p>
