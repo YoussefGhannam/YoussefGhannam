@@ -14,7 +14,7 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" class="reactjs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px; animation: spin 2s linear infinite;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -27,12 +27,11 @@
 
 #
 
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefGhannam&show_icons=true&theme=gruvbox)
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=YoussefGhannam&theme=gruvbox&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=YoussefGhannam&theme=gruvbox&border_radius=4.5) 
 
 #
 
@@ -52,5 +51,4 @@ UPNETWORK (April 2024 - July 2024): Focused on backend development, creating API
 
 With a robust educational background and practical experience, I am committed to leveraging my skills to drive innovation and deliver high-quality solutions in web development.
   
-[website]: 
-
+[website]:
