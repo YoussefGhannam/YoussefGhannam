@@ -6,27 +6,7 @@
 ---
 
 ### 🧰 Languages and Tools
-<head>
-<style>
-         /* Apply the animation to the icon */
-.reactjs {
-  animation: rotate 2s linear infinite; /* Adjust duration and speed as needed */
-}
-         /* Define the rotation animation */
-@keyframes rotate {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
-
-</style>
-
-</head>
-         
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
